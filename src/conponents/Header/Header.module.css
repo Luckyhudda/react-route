@@ -1,0 +1,15 @@
+.linkstyle {
+  color: #fff;
+  text-decoration: none;
+}
+
+.linkstyle:hover {
+  text-decoration: underline;
+}
+
+.active {
+  color: rgb(57, 250, 39);
+  font-weight: bold;
+  text-decoration: none;
+  transform: scale(110%);
+}
